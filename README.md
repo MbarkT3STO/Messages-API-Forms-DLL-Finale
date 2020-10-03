@@ -2,7 +2,6 @@
 # -----------------------------------------------------------------
 A simple DLL to show Error, Success and Confirm messages for WinForms (.NET) projects
 
-
 # 1st Step (Add reference)
 # -----------------------------------------------------------------
 - **1 -** Open your WinForms project using visual studio.
@@ -52,3 +51,5 @@ C.ShowDialog();
 - The click on **Yes** Button will return a **DialogResult.Yes**, and close the form.
 - The click on **No** Button will return a **DialogResult.No**, and close the form.
 
+
+# This Library is totaly free
